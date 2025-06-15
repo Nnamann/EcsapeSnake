@@ -1,7 +1,6 @@
 # [EscapeSnake[]:>
 The classic Snake game, but with its own personality — mystery power-ups, dynamic difficulty, engaging audio and a sleek terminal UI. Built from scratch in C.
 
-This game runs in terminal, 
 
 ## About the game
 EscapeSnake isn't your ordinary snake game. While keeping the nostalgic feel of the classic, it introduces mystery barrels 🛢️ that can completely change your game strategy. Will you risk it for massive bonus points, or play it safe?
