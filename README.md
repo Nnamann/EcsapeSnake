@@ -47,28 +47,9 @@ EscapeSnake isn't your ordinary snake game. While keeping the nostalgic feel of 
     ./escapesnake
     ```
 
-#### Running On Windows
-
-Running `ncurses` projects on Windows requires a compatibility library called **PDCurses**.
-
-1.  **Set up a compiler:** Install a C compiler like MinGW-w64.
-2.  **Get PDCurses:** Download a PDCurses library compatible with your compiler.
-3.  **Compile:** You will need to link against the `pdcurses.lib` (or `.a`) file.
-    ```bash
-    gcc main.c -o escapesnake.exe -lpdcurses 
-    # The exact command might vary based on your PDCurses installation.
-    ```
-4.  **Run:**
-    ```bash
-    ./escapesnake.exe
-    ```
-
     
+### A Personal Note
 
-(Optional) For Audio:
+This project was a fantastic journey into C programming, terminal manipulation, and a sneak into game development. From figuring out the logic, to developing the UI, every step was a learning experience. Thus, completing my First year's learnings with this project, Thank you for checking it out!
+Made with chaos, color, and lots of caffeine.
 
-## Author
-Made with chaos, color, and caffeine by **Naman Bhardwaj**
-
-## License
-This project is licensed under the MIT License
