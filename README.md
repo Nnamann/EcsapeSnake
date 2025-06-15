@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/d244a397-4617-4469-a152-4b6b7243daa6
-
 # [EscapeSnake[]:>
 The classic Snake game, but with its own personality — mystery power-ups, dynamic difficulty, engaging audio and a sleek terminal UI. Built from scratch in C.
 
@@ -50,6 +46,7 @@ EscapeSnake isn't your ordinary snake game. While keeping the nostalgic feel of 
     ./escapesnake
     ```
 
+https://github.com/user-attachments/assets/d244a397-4617-4469-a152-4b6b7243daa6
     
 ### A Personal Note
 
