@@ -3,14 +3,14 @@ The classic Snake game, but with its own personality — mystery power-ups, dyna
 Built from scratch in C with ncurses.
 
 
-EscapeSnake preserves the classic nostalgia, while adding unpredictable power‑ups that can either make or break you game.
+EscapeSnake preserves the classic nostalgia, while adding unpredictable power‑ups that can either make or break your game.
 
 ### Key Features
 + Classic Snake Mechanics - Grow your snake, avoid walls and yourself
-+ Mystery Barrels - Random power-ups and surprises
-+ Dynamic Difficulty - Speed increases as you grows
++ Mystery Barrels - Random power-ups, surprises or penalties
++ Dynamic Difficulty - Speed increases as you grow
 + Retro Audio - Engaging sound effects to enhance the experience
-+ Rich Terminal UI - Vibrant colors, with real-time score updates & visual feedbacks
++ Rich Terminal UI - Vibrant colors, with real-time score updates & visual feedback
 
 
 ### Controls
@@ -23,7 +23,7 @@ Q         Quit
 
 
 
-A clip from the game
+A glimplse of the game
 ![Snake_snippet](https://github.com/user-attachments/assets/7ce25f56-516f-4dfc-bef9-ff3f0c867f0a)
 
 
@@ -55,7 +55,7 @@ Feel free to:
 
 ## Dev Note
 
-EscapeSnake began as a tangle of raw terminal escape sequences and grew into a polished ncurses game. From implementing the core mechanics to refining the UI, each challenge was a new learning.
+EscapeSnake began as a tangle of raw terminal escape sequences and grew into a somewhat polished ncurses game. From implementing the core mechanics to refining the UI, each challenge was a new learning experience.
 
 Thank you for checking it out!
 
