@@ -45,7 +45,7 @@ EscapeSnake isn't your ordinary snake game. While keeping the nostalgic feel of 
     ```bash
     ./escapesnake
     ```
-![Snake_snippet](https://github.com/user-attachments/assets/ce20d035-a087-4024-8ec6-b8c31abcc362)
+![Snake_snippet](https://github.com/user-attachments/assets/7ce25f56-516f-4dfc-bef9-ff3f0c867f0a)
 
   
 ### A Personal Note
