@@ -2,7 +2,7 @@
 The classic Snake game, but with its own personality — mystery power-ups, dynamic difficulty, engaging audio and a sleek terminal UI. 
 Built from scratch in C with ncurses.
 
-[EscapeSnake[]:> preserves the classic nostalgia, while adding unpredictable power‑ups that can either make or break your game.
+[EscapeSnake[]:>  preserves the classic nostalgia, while adding unpredictable power‑ups that can either make or break your game.
 
 ### Key Features
 + Classic Snake Mechanics - Grow your snake, avoid walls and yourself
