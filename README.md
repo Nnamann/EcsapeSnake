@@ -32,8 +32,9 @@ A clip from the game
 
 #### Prerequisites
 * A C compiler (like `gcc` or `clang`).
-* The `ncurses` library. On Linux/macOS, it's often called `ncursesw` for wide-character (Unicode) support.
-
+* The `ncurses` library. (ncursesw for Unicode support).
+* **This code is macOS & linux compatible!!!**
+  
 #### Running On Linux & macOS
 ```
 git clone https://github.com/Nnamann/EscapeSnake.git
@@ -42,7 +43,7 @@ cd EscapeSnake
 gcc main.c -o escapesnake -lncursesw
 ./escapesnake
 ```
-  
+
 ## Contributing
 Feel free to:
 
