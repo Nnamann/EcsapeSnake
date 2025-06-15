@@ -45,9 +45,9 @@ EscapeSnake isn't your ordinary snake game. While keeping the nostalgic feel of 
     ```bash
     ./escapesnake
     ```
+![Snake_snippet](https://github.com/user-attachments/assets/ce20d035-a087-4024-8ec6-b8c31abcc362)
 
-https://github.com/user-attachments/assets/d244a397-4617-4469-a152-4b6b7243daa6
-    
+  
 ### A Personal Note
 
 This project was a fantastic journey into C programming, terminal manipulation, and a sneak into game development. From figuring out the logic, to developing the UI, every step was a learning experience. Thus, completing my First year's learnings with this project, Thank you for checking it out!
