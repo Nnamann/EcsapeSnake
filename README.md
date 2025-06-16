@@ -49,7 +49,7 @@ Feel free to:
 + Report bugs
 + Suggest features
 + Submit pull requests
-+ Star if you enjoyed the  game
++ Star if you enjoyed the game
 
 
 ## Dev Note
