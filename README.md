@@ -63,3 +63,4 @@ Made with chaos, color, and lots of caffeine.
 
 
 
+![Snake_snippet](https://github.com/user-attachments/assets/bbc77cf4-ab7a-4242-abc9-bd097a1e3da2)
