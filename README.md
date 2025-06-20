@@ -45,7 +45,6 @@ gcc main.c -o escapesnake -lncursesw
 
 ## Contributing
 Feel free to:
-
 + Report bugs
 + Suggest features
 + Submit pull requests
